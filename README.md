@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sergi Font and I'm a student of Informatics Engineering, from Spain</h2>
+<h2 align="left">Hi 👋! My name is Sergi Font and I'm a student of Informatics Engineering from Spain</h2>
 
 ###
 
